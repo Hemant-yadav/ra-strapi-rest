@@ -14,8 +14,8 @@ import {
 const hash = {
 "your_model": {
     "components": {
-      "yearly_schedule": "components.nestAComponent",
-      "best_time_to_visit": "components.doesntNestAComponent",
+      "schedule": "components.nestAComponent",
+      "section": "components.doesntNestAComponent",
       "image": "media",
       "video": "media",
     }
